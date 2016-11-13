@@ -1,0 +1,14 @@
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe.config
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csprojResolveAssemblyReference.cache
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\MainWindow.g.cs
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\App.g.cs
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass_MarkupCompile.cache
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass_MarkupCompile.lref
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.pdb
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\MainWindow.baml
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.g.resources
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.Properties.Resources.resources
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csproj.GenerateResource.Cache
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.exe
+c:\users\harsimar\documents\visual studio 2015\Projects\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.pdb
