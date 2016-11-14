@@ -1,0 +1,41 @@
+﻿<Window x:Class="EmployeeClass.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeClass"
+        mc:Ignorable="d"
+        Title="OneMoreAwesomeTitle" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="First Employee" HorizontalAlignment="Center" FontWeight="Bold"></TextBlock>
+        <TextBlock Text="Second Employee" Grid.Column="1" HorizontalAlignment="Center" FontWeight="Bold"></TextBlock>
+        <TextBlock Text="Third Employee" Grid.Column="2" HorizontalAlignment="Center" FontWeight="Bold"></TextBlock>
+
+        <TextBlock Grid.Row="1" Text = "{Binding FirstEName}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="2" Text = "{Binding FirstEID}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="3" Text = "{Binding FirstEDepartment}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="4" Text = "{Binding FirstEPosition}" HorizontalAlignment="Center"></TextBlock>
+
+        <TextBlock Grid.Row="1" Grid.Column="1" Text = "{Binding SecondEName}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="1" Text = "{Binding SecondEID}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="1" Text = "{Binding SecondEDepartment}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="1" Text = "{Binding SecondEPosition}" HorizontalAlignment="Center"></TextBlock>
+
+        <TextBlock Grid.Row="1" Grid.Column="2" Text = "{Binding ThirdEName}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="2" Text = "{Binding ThirdEID}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="2" Text = "{Binding ThirdEDepartment}" HorizontalAlignment="Center"></TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="2" Text = "{Binding ThirdEPosition}" HorizontalAlignment="Center"></TextBlock>
+    </Grid>
+</Window>
